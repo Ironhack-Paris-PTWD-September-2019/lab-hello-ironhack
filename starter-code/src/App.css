@@ -1,0 +1,64 @@
+body {
+    background: rgb(23, 23, 41);
+    font-family: "Lato", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 800%;
+    margin: 20% 0 0 0;
+    margin-left: 15%;
+}
+
+h2 {
+    font-weight: 100;
+    font-size: 300%;
+    margin: 0 0 0 0;
+    color: rgb(206, 206, 206);
+    margin-left: 15%;
+}
+
+.white {
+    color: white;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.column {
+    width: 50%;
+}
+
+button {
+    margin-left: 15%;
+    margin-top: 10%;
+    display: inline-block;
+    color: black;
+    background-color: white;
+    height: 15%;
+    font-family: "Lato", sans-serif;
+    font-size: 200%;
+    font-weight: bold;
+    width: 50%;
+    border-radius: 15px;
+}
+
+.bottom {
+    margin-top: 15%;
+    background-color: white;
+    color: black;
+}
+
+.feature {
+    margin: 15px;
+}
+
+.menu {
+    justify-content: space-between
+}
+
+img {
+    margin: 35px;
+}
