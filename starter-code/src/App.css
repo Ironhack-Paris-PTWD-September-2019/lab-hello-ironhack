@@ -1,0 +1,50 @@
+* {
+    margin: 0
+}
+
+.background-color {
+    background-color: #1E2435;
+    height: 500px;
+    margin: 0
+}
+
+.header-container {
+    width: 50%;
+    margin-left: 50px;
+    align-items: center;
+    padding-top: 100px;
+}
+
+.say-hello {
+    font-size: 100px;
+    color: white;
+}
+
+.you-will {
+    color: white;
+}
+
+.awesome {
+    color: #1E2435;
+    background-color: white;
+    width: 200px;
+    padding: 20px;
+    border-radius: 10px;
+    justify-content: center;
+}
+
+.icon-container {
+    display:flex;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.title {
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+/* #unique-container {
+    display: flex
+} */
