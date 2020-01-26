@@ -1,0 +1,12 @@
+.App {
+    background-image: url("/images/react-logo.svg");
+    background-size: 100vh;
+    height: 50vh;
+    color: white;
+    background-color: #1e2435;
+}
+
+#icons {
+    display: flex;
+    justify-content: space-around;
+}
