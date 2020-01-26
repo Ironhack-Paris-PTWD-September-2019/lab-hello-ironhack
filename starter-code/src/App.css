@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+}
+
+.App {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.Header {
+  background-color: #1f2435;
+  padding: 2em 7em;
+  height: 100vh;
+  color: white;
+}
+
+.Header h1 {
+  font-size: 6em;
+  margin-bottom: 0;
+  margin-top: 1.5em;
+}
+
+.Header p {
+  font-size: 1.8em;
+  margin-bottom: 4em;
+  margin-top: 0;
+}
+
+.Header a {
+  background-color: white;
+  color: #1f2435;
+  font-size: 1.8em;
+  padding: 1em;
+  border-radius: 0.2em;
+  text-decoration: none;
+}
+
+.Menu {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Section {
+  display: flex;
+  justify-content: space-between;
+  padding: 12em 8em;
+}
+
+.Section img {
+  height: 11em;
+  margin-left: -1em;
+}
+
+.Section h2 {
+  font-size: 2.3em;
+  color: black;
+  margin-bottom: 0;
+}
+
+.Section p {
+  font-size: 1.6em;
+  color: grey;
+  margin-top: 0.4em;
+}
