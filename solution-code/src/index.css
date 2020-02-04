@@ -1,0 +1,13 @@
+*, :before, :after {box-sizing:border-box;}
+
+:root {
+  --pad: 5vw;
+}
+
+body {
+  margin:0;
+
+  font: 400 120%/1.5 'Roboto', sans-serif;
+}
+
+a {color:inherit; text-decoration:inherit;}
