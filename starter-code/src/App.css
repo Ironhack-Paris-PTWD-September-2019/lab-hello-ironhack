@@ -1,0 +1,80 @@
+body { 
+    background-color: #1f2435;
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+   }
+  
+  .topDiv {
+    padding: 10vh 6vh;
+    margin-bottom: 1vh;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  header {
+    color: white;
+    width: 100vh;
+  }
+  header > h1 {
+    font-size: 4em;
+    font-weight: bolder;
+  }
+  header > h2 {
+    font-weight: lighter;
+    font-size: 1em;
+    margin-bottom: 10px;
+    width: 25vw;
+  }
+  header > a {
+    padding: 200px 10px;
+    background-color: white;
+    color: #1f2435;
+    font-size: 3em;
+  }
+
+  button {
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+  }
+
+
+  section { 
+    margin-top: 20px;
+    background-color: white;
+    padding: 30px 20px;
+   
+  }
+  
+  .flex-section {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .icons-flex {
+    width: 30vh;
+  }
+  
+  .icons-flex > img {
+    width: 100%;
+  }
+  
+  .icons-flex > h3 {
+    font-size: 2em;
+    font-weight: lighter;
+    margin-left: 1vw;
+    color: gainsboro;
+
+}
+
+  .icons-flex > p {
+    color: gray;
+    font-size: 1em;
+    font-weight: lighter;
+    margin-left: 1vw;
+  }
